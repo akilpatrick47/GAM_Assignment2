@@ -10,8 +10,11 @@
 ### Example output
 Vector Operations:
 (1, 2, 3) + (4, 5, 6) = (5, 7, 9)
+
 (1, 2, 3) - (4, 5, 6) = (-3, -3, -3)
+
 Dot((1, 2, 3), (4, 5, 6)) = 32
+
 Cross((1, 2, 3), (4, 5, 6)) = (-3, 6, -3)
 
 Matrix Transformations:
