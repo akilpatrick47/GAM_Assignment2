@@ -18,5 +18,7 @@ Dot((1, 2, 3), (4, 5, 6)) = 32
 Cross((1, 2, 3), (4, 5, 6)) = (-3, 6, -3)
 
 Matrix Transformations:
+
 Original vector: (1, 0, 0)
+
 After scaling+rotation: (1.4142135, 1.4142135, 0)
